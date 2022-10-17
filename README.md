@@ -1,5 +1,5 @@
 # HELLO THERE
-Me llamo Adrián y tengo 23 años. Hace dos años me gradué en Marketing e Investigación de Mercados y comencé a trabajar en desarrollar mis habilidades relacionadas con el mundo del **data analytics**. Desde entonces he completado el *Google Data Analytics Professional Certificate* y el *Harvard Data Science Professional Certificate*, además de realizar cursos relacionados con herramientas y procesos del análisis de datos, tales como Google Analytics, Tableau o SQL Server. Mi objetivo profesional es poder desarrollar estas habilidades dentro de una organización y aprender algo nuevo cada día.
+Me llamo Adrián y tengo 24 años. Hace dos años me gradué en Marketing e Investigación de Mercados y comencé a trabajar en desarrollar mis habilidades relacionadas con el mundo del **data analytics**. Desde entonces he completado el *Google Data Analytics Professional Certificate* y el *Harvard Data Science Professional Certificate*, además de realizar cursos relacionados con herramientas y procesos del análisis de datos, tales como Google Analytics, Tableau o SQL Server. Mi objetivo profesional es poder desarrollar estas habilidades dentro de una organización y aprender algo nuevo cada día.
 
 # ¿QUÉ PROYECTOS FORMAN PARTE DE MI PORTFOLIO?
 Mi portfolio se puede dividir en tres grandes partes:
